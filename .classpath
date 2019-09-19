@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="FileWriter/src"/>
+	<classpathentry excluding="lab1/" kind="src" path="GenericEx/src"/>
+	<classpathentry kind="src" path="GenericEx/src/lab1"/>
+	<classpathentry kind="src" path="GoogleBooksApiJson/src"/>
+	<classpathentry kind="src" path="JohnBryce/src"/>
+	<classpathentry kind="src" path="Lambda/src"/>
+	<classpathentry kind="src" path="MySite2/src"/>
+	<classpathentry kind="src" path="Reflection/src"/>
+	<classpathentry kind="src" path="SpringApp/src/main/java"/>
+	<classpathentry kind="src" path="SpringApp2/src/main/java"/>
+	<classpathentry kind="src" path="SpringApp3/src/main/java"/>
+	<classpathentry excluding="com/johnbryce/myAnnotation/|com/johnbryce/aspect/" kind="src" path="SpringApp3b/src/main/java"/>
+	<classpathentry kind="src" path="SpringApp3b/src/main/java/com/johnbryce/aspect"/>
+	<classpathentry kind="src" path="SpringApp3b/src/main/java/com/johnbryce/myAnnotation"/>
+	<classpathentry kind="src" path="SpringApp3c/.mvn/wrapper"/>
+	<classpathentry kind="src" path="SpringApp3c/src/main/java"/>
+	<classpathentry kind="src" path="SpringApp3c/src/test/java"/>
+	<classpathentry kind="src" path="SpringApp4/src/main/java"/>
+	<classpathentry kind="src" path="SpringApp5JDBC/src/main/java"/>
+	<classpathentry kind="src" path="SpringApp6Boot/.mvn/wrapper"/>
+	<classpathentry kind="src" path="SpringApp6Boot/src/main/java"/>
+	<classpathentry kind="src" path="SpringApp6Boot/src/test/java"/>
+	<classpathentry kind="src" path="SpringApp7BootMVC/.mvn/wrapper"/>
+	<classpathentry kind="src" path="SpringApp7BootMVC/src/main/java"/>
+	<classpathentry kind="src" path="SpringApp7BootMVC/src/test/java"/>
+	<classpathentry kind="src" path="SpringApp7BootMVC2/.mvn/wrapper"/>
+	<classpathentry kind="src" path="SpringApp7BootMVC2/src/main/java"/>
+	<classpathentry kind="src" path="SpringApp7BootMVC2/src/test/java"/>
+	<classpathentry kind="src" path="SpringBootUnitTesting/src/main/java"/>
+	<classpathentry kind="src" path="SpringBootUnitTesting/src/test/java"/>
+	<classpathentry kind="src" path="SpringData/.mvn/wrapper"/>
+	<classpathentry kind="src" path="SpringData/src/main/java"/>
+	<classpathentry kind="src" path="SpringData/src/test/java"/>
+	<classpathentry kind="src" path="SteamsExample/src"/>
+	<classpathentry kind="src" path="SteamsExample/SteamsExample/src"/>
+	<classpathentry kind="src" path="Threads/src"/>
+	<classpathentry kind="src" path="Zadachki/src"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jersey-client-1.14.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jersey-core-1.14.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jersey-json-1.14.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jersey-server-1.14.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jersey-servlet-1.14.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="MySite2/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="output" path="FileWriter/bin"/>
+</classpath>
